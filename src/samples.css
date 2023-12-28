@@ -10,6 +10,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: rgb(53, 21, 93);
     background-image: url("../images/samples.jpg");
     background-size: cover;
     font-family: 'poppins', sans-serif;
