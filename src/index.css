@@ -145,6 +145,10 @@ main {
 }
 
 @media only screen and (max-width: 650px) {
+    body {
+        background-image: url("../images/7.JPG");
+    }
+    
     header {
         padding: 0 7vw;
     }
